@@ -3,3 +3,6 @@ Quantum cryptography is one of the most researched fields of Information Theory.
 
 
 This repository has LaTeX code and also the images and the compiled image.
+
+
+[Abhiram_s_article (1).pdf](https://github.com/Abhiram2006/An-Elementary-Introduction-to-Quantum-Cryptography/files/9228632/Abhiram_s_article.1.pdf)
